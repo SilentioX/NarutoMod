@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:wheat"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:cooked_chicken"
+        },
+        {
+            "item": "minecraft:cooked_beef"
+        },
+        {
+            "item": "minecraft:cooked_porkchop"
+        },
+        {
+            "item": "minecraft:wheat_seeds"
+        },
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
+    "result": {
+        "item": "nm:ramen",
+        "count": 1
+    }
+}

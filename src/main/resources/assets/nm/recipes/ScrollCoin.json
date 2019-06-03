@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ODO",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "nm:gold_ryo"
+        },
+        "O": {
+            "item": "nm:onyx_ryo"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "nm:scroll_coin",
+        "count": 1
+    }
+}

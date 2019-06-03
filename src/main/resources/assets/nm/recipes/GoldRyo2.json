@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nm:onyx_ryo"
+        }
+    ],
+    "result": {
+        "item": "nm:gold_ryo",
+        "count": 9
+    }
+}

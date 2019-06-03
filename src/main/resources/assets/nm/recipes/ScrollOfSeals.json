@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ODO",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:paper"
+        },
+        "O": {
+            "item": "nm:gold_ryo"
+        },
+        "D": {
+            "item": "nm:scroll_coin"
+        }
+    },
+    "result": {
+        "item": "nm:scroll_of_seals",
+        "count": 1
+    }
+}
