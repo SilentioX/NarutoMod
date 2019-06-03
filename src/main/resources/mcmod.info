@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nm",
+  "name": "Naruto Mod",
+  "description": "Práctica de Modding y MATHIOKS CTM.",
+  "version": "1.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Silentio", "Griffyn", "Wantan", "Fbo"],
+  "credits": "Mathioks por ser tan CDSM",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
