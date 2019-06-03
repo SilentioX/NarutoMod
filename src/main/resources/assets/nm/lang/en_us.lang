@@ -33,3 +33,10 @@ item.kagebunshin.name=Kage Bunshin
 item.tajukagebunshin.name=Taju Kage Bunshin
 item.kageshuriken.name=Shuriken Kage Bunshin
 item.reaperseal.name=Shiki Fujin
+
+//Elementals
+item.katon_learner.name=Katon Skill Learner
+item.raiton_learner.name=Raiton Skill Learner
+item.suiton_learner.name=Suiton Skill Learner
+item.doton_learner.name=Doton Skill Learner
+item.Futon_learner.name=Futon Skill Learner
