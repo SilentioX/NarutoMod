@@ -37,6 +37,11 @@ public class ModItems
 	public static final Item KAGESHURIKEN = new JutsuBase("kageshuriken");
 	public static final Item REAPERSEAL = new JutsuBase("reaperseal");
 	public static final ItemSword HIRAISHIN_KUNAI = new HiraiK("hiraishin_kunai", MATERIAL_HIRAI);
+	public static final Item KATON_LEARNER = new JutsuBase("katon_learner");
+	public static final Item FUTON_LEARNER = new JutsuBase("futon_learner");
+	public static final Item SUITON_LEARNER = new JutsuBase("suiton_learner");
+	public static final Item RAITON_LEARNER = new JutsuBase("raiton_learner");
+	public static final Item DOTON_LEARNER = new JutsuBase("doton_learner");
 	
 	//Items
 	public static final Item SCROLL_OF_SEALS = new ScrollsBase("scroll_of_seals");
