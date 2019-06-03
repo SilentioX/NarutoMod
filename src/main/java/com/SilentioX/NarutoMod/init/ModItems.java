@@ -6,12 +6,14 @@ import java.util.List;
 import com.SilentioX.NarutoMod.util.Reference;
 import com.SilentioX.NarutoMod.items.ItemBase;
 import com.SilentioX.NarutoMod.items.edible.food.FoodBase;
+import com.SilentioX.NarutoMod.items.edible.pills.HealthPill;
 import com.SilentioX.NarutoMod.items.jutsu.JutsuBase;
 import com.SilentioX.NarutoMod.items.scrolls.ScrollsBase;
 import com.SilentioX.NarutoMod.items.weapons.HiraiK;
 import com.SilentioX.NarutoMod.tabs.NarutoWeapons;
 
 import net.minecraft.block.Block;
+import net.minecraft.init.MobEffects;
 import net.minecraft.init.SoundEvents;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.Item;
@@ -19,6 +21,7 @@ import net.minecraft.item.Item.ToolMaterial;
 import net.minecraft.item.ItemArmor.ArmorMaterial;
 import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemSword;
+import net.minecraft.potion.PotionEffect;
 import net.minecraftforge.common.util.EnumHelper;
 
 public class ModItems
@@ -45,7 +48,7 @@ public class ModItems
 	public static final Item RAMEN = new FoodBase("ramen", 40, 20F, false);
 	
 	//Pills
-	public static final Item RED_PILL = new FoodBase("red_pill", 1, 0F, false);
+	public static final Item RED_PILL = new HealthPill("red_pill", 0, 0F, false, new PotionEffect(MobEffects.INSTANT_HEALTH, (1*20), 20, true, false));
 	
 	//Currency
 	public static final Item BRONZE_RYO = new ItemBase("bronze_ryo");
