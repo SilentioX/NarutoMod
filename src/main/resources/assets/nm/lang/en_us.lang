@@ -1,0 +1,35 @@
+//Currency
+item.bronze_ryo.name=Bronze Ryo
+item.silver_ryo.name=Silver Ryo
+item.gold_ryo.name=Gold Ryo
+item.onyx_ryo.name=Onyx Ryo
+
+//Blocks
+tile.kamui_block.name=Kamui Block
+
+//Weapons
+
+//Armor
+
+//Food
+item.ramen.name=Ichiraku Ramen
+
+//Pills
+item.red_pill.name=Heatlh Pill
+
+//Tabs
+itemGroup.narutocurrency=Naruto Currency
+itemGroup.narutoweapons=Naruto Weapons
+itemGroup.narutoarmor=Ninja Armor
+itemGroup.narutoscrolls=Ninja Scrolls
+
+//Items
+item.scroll_of_seals.name=Scroll of Seals
+item.scroll_coin.name=Scroll Coin
+
+//Jutsus
+item.hiraishin_kunai.name=Hiraishin Kunai
+item.kagebunshin.name=Kage Bunshin
+item.tajukagebunshin.name=Taju Kage Bunshin
+item.kageshuriken.name=Shuriken Kage Bunshin
+item.reaperseal.name=Shiki Fujin
