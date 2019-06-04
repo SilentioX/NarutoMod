@@ -31,16 +31,25 @@ public class ModItems
 	//Materials
 	public static final ToolMaterial MATERIAL_HIRAI = EnumHelper.addToolMaterial("material_hirai", 0, 1000000000, 0F, 46.0F, 10);
 	
-	//Jutsus
+	//JutsuCommon
 	public static final Item KAGEBUNSHIN = new JutsuBase("kagebunshin");
 	public static final Item TAJUKAGEBUNSHIN = new JutsuBase("tajukagebunshin");
 	public static final Item KAGESHURIKEN = new JutsuBase("kageshuriken");
+	
+	//SpecialJutsu
 	public static final Item REAPERSEAL = new JutsuBase("reaperseal");
 	public static final ItemSword HIRAISHIN_KUNAI = new HiraiK("hiraishin_kunai", MATERIAL_HIRAI);
+	
+	//JutsuElement
+	///Fire
 	public static final Item KATON_LEARNER = new JutsuBase("katon_learner");
+	///Wind
 	public static final Item FUTON_LEARNER = new JutsuBase("futon_learner");
+	///Water
 	public static final Item SUITON_LEARNER = new JutsuBase("suiton_learner");
+	///Lightning
 	public static final Item RAITON_LEARNER = new JutsuBase("raiton_learner");
+	///Earth
 	public static final Item DOTON_LEARNER = new JutsuBase("doton_learner");
 	
 	//Items
